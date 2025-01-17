@@ -2,12 +2,6 @@
 
 > DBMS Project (course work)
 
-### Team
-
-- [Atharva Parkhe](https://github.com/atharvparkhe) - Django (Backend Developer)
-- [Medam Greeshma](https://github.com/Greeshma2903/) - HTML, Bootstrap (Frontend Developer)
-- [Maheshwari Terse](https://github.com/maheshwari0310) - Django (Backend)
-
 ## Motivation
 The main objective of the placement management system is to reduce manual work and time. The purpose of this system is to automate the existing manual system with the help of computer software and store the data entered for a longer time with ease of access. 
 
